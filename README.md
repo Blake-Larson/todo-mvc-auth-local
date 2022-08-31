@@ -41,6 +41,6 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  
  Have fun testing and improving it!! 😎
 
- Loking to complete some todos!!
+ Looking to complete some todos!!
 
 
